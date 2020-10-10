@@ -1,0 +1,95 @@
+1. 
+
+Name: Spandan Nepal
+Email: spandan7nepal@gmail.com
+
+2. 
+
+In the 3 days git-github training we learned the following commands which are essential for using git and github.
+
+A. for beginning git users
+git config --global user.name "FirstName"
+git config --global user.email "email"
+
+B. git commands
+
+1. To initilize git into the director
+git init
+
+2. to create any file
+touch
+
+3. to track the file or to create stage of the file
+git add . or git add filename
+
+4. to create a snapshot of version
+git commit -m "messege"
+
+5. To check status of git
+git status
+
+6. to check updates on log
+git log
+
+7. to check branch
+git branch
+ 
+8. make new branch
+git branch branch_name
+
+9. to go to another branch
+git checkout branch_name
+
+10. to check your current branch
+git branch (highlighted with * or green)
+
+11. to create a file in branch
+touch
+
+12. to merege branches
+git merge branch_name
+
+13. remove a branch
+git branch -d branch_name
+
+14. to add remote url
+git remote add origin <repo_url>
+
+15. to push code in cloud
+git push -u origin branch_name(master)
+
+16. push all local branch
+git push --all
+
+17. delete request to remote branch on github
+git push origin -d branch_name
+
+18. to revert
+git branch branch_name
+git checkout branch_name
+git reset --hard HEAD ~ "STEPS" OR <COMMIT id>
+
+19. clone url
+git clone <link>
+
+20. fork
+press fork on others project and clone it 
+git remote add upstream "owners-link" 
+make changes and commit to your github (forked)
+to check updates
+git pull upstream master
+git push -u origin master 
+
+
+3.
+
+What i expected during the session was, to learn the basics of git commands and use git to connect with github. 
+The three days training was fruitful and it met most of my expectations. 
+
+4.
+
+My suggestions, 
+At the end of the 3rd day, it would be helpful if you could've showed a roadmap which we could follow to learn more advanced stuff about git and github. 
+Other than this i was quiet satisfied with the trainnig and would like to thank GCA and Milan Thapa for this wonderful 3 day workshop.
+Hoping to attend more workshops like this in the future.  
+
