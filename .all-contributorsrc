@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "dpakgtm07",
+      "name": "Dipak Gautam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29562588?v=4",
+      "profile": "https://github.com/dpakgtm07",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Git-GItHub-Training",
+  "projectOwner": "link2rn",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
