@@ -1,6 +1,6 @@
 # Git and Github Training Assignment
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Please create pull request to this repository with following addition.**
@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/dpakgtm07"><img src="https://avatars2.githubusercontent.com/u/29562588?v=4" width="100px;" alt=""/><br /><sub><b>Dipak Gautam</b></sub></a><br /><a href="#content-dpakgtm07" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Shovaa"><img src="https://avatars1.githubusercontent.com/u/47145787?v=4" width="100px;" alt=""/><br /><sub><b>Shova Kuikel</b></sub></a><br /><a href="#content-Shovaa" title="Content">🖋</a></td>
     <td align="center"><a href="https://vitezone.com/"><img src="https://avatars0.githubusercontent.com/u/65861498?v=4" width="100px;" alt=""/><br /><sub><b>SpandanNepal</b></sub></a><br /><a href="#content-SpandanNepal" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Suchana-Neupane"><img src="https://avatars0.githubusercontent.com/u/69891647?v=4" width="100px;" alt=""/><br /><sub><b>Suchana-Neupane</b></sub></a><br /><a href="#content-Suchana-Neupane" title="Content">🖋</a></td>
   </tr>
 </table>
 
