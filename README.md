@@ -1,6 +1,6 @@
 # Git and Github Training Assignment
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Please create pull request to this repository with following addition.**
@@ -30,7 +30,9 @@ Student who have successfully submitted their assignments:
     <td align="center"><a href="https://github.com/Shovaa"><img src="https://avatars1.githubusercontent.com/u/47145787?v=4" width="100px;" alt=""/><br /><sub><b>Shova Kuikel</b></sub></a><br /><a href="#content-Shovaa" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/SpandanNepal"><img src="https://avatars0.githubusercontent.com/u/65861498?v=4" width="100px;" alt=""/><br /><sub><b>SpandanNepal</b></sub></a><br /><a href="#content-SpandanNepal" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Suchana-Neupane"><img src="https://avatars0.githubusercontent.com/u/69891647?v=4" width="100px;" alt=""/><br /><sub><b>Suchana-Neupane</b></sub></a><br /><a href="#content-Suchana-Neupane" title="Content">🖋</a></td>
-   <td align="center"><a href="https://github.com/samptimilsina"><img src="https://avatars3.githubusercontent.com/u/72552716?v=4" width="100px;" alt=""/><br /><sub><b>samptimilsina</b></sub></a><br /><a href="#content-samptimilsina" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/samptimilsina"><img src="https://avatars3.githubusercontent.com/u/72552716?v=4" width="100px;" alt=""/><br /><sub><b>samptimilsina</b></sub></a><br /><a href="#content-samptimilsina" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/PrakashBudhathoki"><img src="https://avatars1.githubusercontent.com/u/70566495?v=4" width="100px;" alt=""/><br /><sub><b>PrakashBudhathoki</b></sub></a><br /><a href="#content-PrakashBudhathoki" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/nhuchhe7"><img src="https://avatars2.githubusercontent.com/u/51046291?v=4" width="100px;" alt=""/><br /><sub><b>Nhuchhe Manish</b></sub></a><br /><a href="#content-nhuchhe7" title="Content">🖋</a></td>
   </tr>
 </table>
 

@@ -42,7 +42,7 @@
       ]
     },
     {
-    "login": "samptimilsina",
+      "login": "samptimilsina",
       "name": "samptimilsina",
       "avatar_url": "https://avatars3.githubusercontent.com/u/72552716?v=4",
       "profile": "https://github.com/samptimilsina",
@@ -55,6 +55,15 @@
       "name": "PrakashBudhathoki",
       "avatar_url": "https://avatars1.githubusercontent.com/u/70566495?v=4",
       "profile": "https://github.com/PrakashBudhathoki",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "nhuchhe7",
+      "name": "Nhuchhe Manish",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51046291?v=4",
+      "profile": "https://github.com/nhuchhe7",
       "contributions": [
         "content"
       ]
