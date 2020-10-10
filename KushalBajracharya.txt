@@ -1,0 +1,12 @@
+Full Name-Kushal Bajracharya
+Email-bajrakushal22@gmail.com
+
+Hello, I'm Kushal Bajrcharya living in Hetauda. I'm pursuing BIM in Hetauda School of Management and in my final year of my studies.
+Talking about the Git & Github training it has been a wonderful 3 days of experience. 
+I'm new to Git & Github, this 3 days session has given in the basic knowledge of the working mechanism of Git & Github works. 
+This session has taught me how we can add files, commit and push the local files into our Github repository. 
+I'm looking forward to working in Git & Github.
+
+I hope there will be an advanced session to Git & GitHub in the future.
+
+This has been an amazing session. I would like to thank the entire GCA team along with our instructor Milan Thapa for helping us throughout this 3 days session. 
