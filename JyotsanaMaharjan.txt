@@ -1,0 +1,5 @@
+Name: Jyotsana Maharjan
+Email: jyotsanamaharjan80@gmail.com
+
+I am a fresh graduate. Participating in this three day session has been totally fruitful. I was familiar to the git and github before but was not clear about its workflow and usage. This session covered all the basics which made the overall concept of git clearer and easier to implement..
+Looking forward to more sessions like this.
