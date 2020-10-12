@@ -1,0 +1,3 @@
+Hello! I'm Himal Gyawali. My gmail account is gyawalihimal8@gmail.com.
+First, I'd like to thank trainer and GCA for organizing such a fruitful event. I've got various concepts related to git/github and the practical implementation of 
+those concepts. I expect it to be more advanced in coming days. 
