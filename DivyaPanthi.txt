@@ -1,0 +1,9 @@
+Full Name: Divya Panthi
+Email Address: deevyapanthi03@gmail.com
+
+Hello! My name is Divya Panthi. I am currently pursuing my bachelors degree from Islington College. I am a final year student.
+
+ This three day session of Git and Github Training session went awesome. I was a bit familiar to basic git commands but was not clear on branching and merging process, creating pull request and forking. This session enlightened me with all the essential knowledge of git and github.
+
+I would like to thank the entire GCA team along with our instructor Milan Thapa sir, for helping us throughout this 3 days session. 
+Would love to attend more workshop session like this in future. Thank you!
