@@ -39,6 +39,11 @@ Student who have successfully submitted their assignments:
     <td align="center"><a href="https://github.com/EkataShrestha"><img src="https://avatars2.githubusercontent.com/u/72552884?v=4" width="100px;" alt=""/><br /><sub><b>EkataShrestha</b></sub></a><br /><a href="#content-EkataShrestha" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/bajrakushal"><img src="https://avatars3.githubusercontent.com/u/69857633?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Bajracharya</b></sub></a><br /><a href="#content-bajrakushal" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/naix5526"><img src="https://avatars0.githubusercontent.com/u/66814719?v=4" width="100px;" alt=""/><br /><sub><b>Nishan</b></sub></a><br /><a href="#content-naix5526" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/sisau"><img src="https://avatars3.githubusercontent.com/u/66163783?v=4" width="100px;" alt=""/><br /><sub><b>sisau</b></sub></a><br /><a href="#content-sisau" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AchyutGautam"><img src="https://avatars3.githubusercontent.com/u/37801137?v=4" width="100px;" alt=""/><br /><sub><b>Achyut Gautam</b></sub></a><br /><a href="#content-AchyutGautam" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Slawozoo"><img src="https://avatars3.githubusercontent.com/u/52639051?v=4" width="100px;" alt=""/><br /><sub><b>Slawozoo</b></sub></a><br /><a href="#content-Slawozoo" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/HimalG"><img src="https://avatars2.githubusercontent.com/u/49095234?v=4" width="100px;" alt=""/><br /><sub><b>Himal Gyawali</b></sub></a><br /><a href="#content-HimalG" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/deevya03"><img src="https://avatars0.githubusercontent.com/u/69291536?v=4" width="100px;" alt=""/><br /><sub><b>Divya Panthi</b></sub></a><br /><a href="#content-deevya03" title="Content">🖋</a></td>
   </tr>
 </table>
 
