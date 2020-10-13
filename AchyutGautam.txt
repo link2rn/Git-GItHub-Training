@@ -1,0 +1,19 @@
+Name : Achyut Gautam
+email : achyutgautamko@gmail.com
+
+Learning Git and Git Hub on these three days was really awesome. It helped me alot to explore the different 
+dimensions of Git and Git Hub. We all need Git and Git Hub. So, learning Git and Git Hub was essential for me. 
+So, being on these session was really fruitful for me.
+
+On these three days we learned about different aspects of Git and Git Hub. Moreover, we learned about basics of 
+Git and Git Hub. Creating repo, creating branches, cloning, forking, commiting, checking the git status, making the 
+directory and file,adding remote repositiry, push and pull request were some of the learning on these three days session.
+Indeed, we only did not learn the theoretical aspect but also we learned with practical approach.
+
+I would like to express my gratitudes to Genese Cloud Academy and respected trainer Mr. Milan Thapa for this 
+beautiful opprotunity. This training has played significant role on creating spaces for learning. Learning
+spaces plays vivid role on making of the better community. So, thank you so much for this beautiful initiation.
+
+I found trainer Mr. Milan Thapa humble, kind and energetic. Precisely, his teaching methodology and practical approcah were
+really constructive. His teaching approach was indeed mesmerizing. Everyone with proper attention could learn from his
+sessions. So, thank you so much for this effort to create the leaning spaces and build the beautiful community.
