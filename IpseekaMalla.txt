@@ -1,0 +1,13 @@
+Name:Ipseeka Malla
+email address:ipseeka.malla1@gmail.com
+
+Hello,
+My name is Ipseeka Malla. I have attended this 3 days training from Pokhara,Nepal.
+This training has been very helpful for me as  this is first time I am learning how to use git and github.
+I have learnt how to use git and it's command like push,pull,commit,remote,clone etc in this session.
+
+I would also like to take next training available to improve my skill.Thank you for your time.
+
+Feedback:It was a great experience.Hope to learn more in coming future.
+
+
