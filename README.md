@@ -1,6 +1,6 @@
 # Git and Github Training Assignment
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Please create pull request to this repository with following addition.**
@@ -48,6 +48,9 @@ Student who have successfully submitted their assignments:
     <td align="center"><a href="https://github.com/HimalG"><img src="https://avatars2.githubusercontent.com/u/49095234?v=4" width="100px;" alt=""/><br /><sub><b>Himal Gyawali</b></sub></a><br /><a href="#content-HimalG" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/deevya03"><img src="https://avatars0.githubusercontent.com/u/69291536?v=4" width="100px;" alt=""/><br /><sub><b>Divya Panthi</b></sub></a><br /><a href="#content-deevya03" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/AmarNaga"><img src="https://avatars1.githubusercontent.com/u/50080114?v=4" width="100px;" alt=""/><br /><sub><b>amarnaga</b></sub></a><br /><a href="#content-AmarNaga" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/anuskasthapit98"><img src="https://avatars1.githubusercontent.com/u/58649004?v=4" width="100px;" alt=""/><br /><sub><b>anuskasthapit98</b></sub></a><br /><a href="#content-anuskasthapit98" title="Content">🖋</a></td>
   </tr>
 </table>
 
