@@ -1,6 +1,6 @@
 # Git and Github Training Assignment
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Please create pull request to this repository with following addition.**
@@ -52,6 +52,7 @@ Student who have successfully submitted their assignments:
   <tr>
     <td align="center"><a href="https://github.com/anuskasthapit98"><img src="https://avatars1.githubusercontent.com/u/58649004?v=4" width="100px;" alt=""/><br /><sub><b>anuskasthapit98</b></sub></a><br /><a href="#content-anuskasthapit98" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sharathkumar106"><img src="https://avatars2.githubusercontent.com/u/33835670?v=4" width="100px;" alt=""/><br /><sub><b>SharathKumar </b></sub></a><br /><a href="#content-sharathkumar106" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Sanamchha"><img src="https://avatars2.githubusercontent.com/u/52907119?v=4" width="100px;" alt=""/><br /><sub><b>Sanamchha</b></sub></a><br /><a href="#content-Sanamchha" title="Content">🖋</a></td>
   </tr>
 </table>
 
